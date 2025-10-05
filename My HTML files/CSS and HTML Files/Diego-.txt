@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <title>Journey Through Japan</title>
+ <style>
+body {
+background-color: #f5f5f5;
+font-family: 'Segoe UI', sans-serif;
+color: #333;
+padding: 20px;
+}
+h1 {
+color: #b22222;
+font-size: 36px;
+}
+h2 {
+color: #2e8b57;
+font-size: 28px;
+}
+p {
+font-size: 18px;
+line-height: 1.6;
+}
+ul {
+font-size: 16px;
+}
+img {
+margin: 10px 0;
+border-radius: 8px;
+}
+ </style>
+</head>
+<body>
+ <h1>Welcome to My Favorite Vacation Destination: Japan</h1>
+ <h2>About Me</h2>
+ <img src="WIN_20250911_14_43_23_Pro.jpg" alt="Portrait of Diego Grageda" width="400">
+ <p>
+Hello! My name is Diego Grageda, and I’m a student at Montgomery College pursuing a blend of computer science and game design. 
+I’m passionate about immersive storytelling, historical aesthetics, and using technology to make a difference. 
+Japan’s culture and landscapes have deeply inspired my creative work—from Edo-period art to modern cityscapes.
+ </p>
+ <h2>Why I Love Japan</h2>
+ <p>
+Japan is a country of breathtaking contrasts—where ancient temples sit beside futuristic skyscrapers. 
+I’m drawn to its rich history, seasonal beauty, and the harmony between nature and design. 
+Whether it’s walking through snowy streets in Hokkaido, admiring cherry blossoms in Tokyo, or exploring quiet shrines in Nara, every 
+corner offers something unique. 
+The culture is deeply respectful and artistic, which resonates with my own creative values. 
+Japan isn’t just a place to visit—it’s a place that fuels imagination and reflection.
+ </p>
+ <h2>Explore Japan</h2>
+ <!-- Fixed width and height image -->
+ <img src="Mt_Fuji_In_Spring.jpg" alt="Mount Fuji with cherry blossoms in spring" width="400" height="300">
+ <!-- Image that links to Google Maps -->
+ <a href="https://www.google.com/maps/place/Japan" target="_blank">
+<img src="Map_of_Japan.jpg" alt="Satellite map of Japan showing major cities and terrain" width="600" height="300">
+ </a>
+ <!-- Scaled Tokyo skyline image -->
+ <img src="Tokyo_Skyline_at_Night.jpg" alt="Tokyo Tower and city lights at night" width="600" height="300">
+ <h2>Things to Do</h2>
+ <ul>
+<li>For Families:
+<ul>
+<li>Visit Tokyo Disneyland or DisneySea</li>
+<li>Explore the Ghibli Museum in Mitaka</li>
+<li>Ride the bullet train to scenic destinations</li>
+</ul>
+</li>
+<li>For Adults:
+<ul>
+<li>Relax in an onsen hot spring in Hakone</li>
+<li>Attend a traditional tea ceremony in Kyoto</li>
+<li>Experience nightlife and cuisine in Osaka</li>
+</ul>
+</li>
+ </ul>
+</body>

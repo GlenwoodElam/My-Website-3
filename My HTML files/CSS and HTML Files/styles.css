@@ -1,0 +1,39 @@
+body {
+    
+
+    background: yellow;     /* red, blue, yellow, etc */
+    color: blue;            /* red, blue, yellow, etc */
+    font-size: 20px;        /* 0px - 100px and beyond */
+    font-weight: lighter;   /* lighter, normal, bold  */
+    text-align: center;      /* left, center or right  */
+
+    margin-top: 5px;        /* From 0px and upwards   */
+    margin-bottom: 20px;
+
+/* How to Center images, MUST have following components */
+	img{
+		margin-top: 30px;
+		display: block;
+		width: 100px;
+		height: 100px;
+		margin-left: auto
+		margin-right: auto
+	}
+
+/* Padding */
+	<div class="card"
+		HTML (Hypertext Markup Language): The standard 			language used to create and structure web pages.
+		HTTP/HTTPS (Hypertext Transfer Protocol): The 			protocol used for transferring web content between 		servers and browsers.
+	</div>
+
+	
+
+
+
+
+
+   
+
+
+}
+

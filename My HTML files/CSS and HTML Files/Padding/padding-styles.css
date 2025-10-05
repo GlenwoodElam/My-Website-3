@@ -1,0 +1,26 @@
+.card {
+	color: #222222; /*Note: NOT full black color*/
+	background: lightgray;
+	width: 300px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+
+
+	/* NOTE: padding: 50px; /*Note: Use for overall */
+	padding-top: 100px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 150px;
+
+	/* NOTE: border (outside of padding, but, inside margin) */
+	border: 2px solid red; /* dotted, hex numbers, various colors*/
+	border-radius: 30px;
+
+	/* NOTE: Box Model - Margin, Border, Padding, Content */
+
+	
+
+	
+;
+
